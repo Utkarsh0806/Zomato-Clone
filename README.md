@@ -1,2 +1,3 @@
 # Zomato-Clone
 This is a Zomato Clone Website 
+From this i am learning to use git and practicing HTML and CSS
